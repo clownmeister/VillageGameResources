@@ -1,0 +1,2 @@
+# VillageGameResources
+Resources for VillageGame
